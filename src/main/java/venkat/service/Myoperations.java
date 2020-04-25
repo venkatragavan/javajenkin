@@ -6,8 +6,8 @@ public class Myoperations {
 		return a + b;
 	}
 
-	public String getFullName(String firstname, String lastname) {
-		return firstname + " " + lastname;
+	public String getFullName(String firstnames, String lastnames) {
+		return firstnames + " " + lastnames;
 	}
 	
 }

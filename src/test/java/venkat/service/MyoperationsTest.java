@@ -13,7 +13,7 @@ public class MyoperationsTest {
 
 	@Test
 	public void testGetsummation2() {
-		assertEquals(9, new Myoperations().getsummation(4, 5));
+		assertEquals(9, new Myoperations().getsummation(5, 5));
 	}	
 	
 	@Test
